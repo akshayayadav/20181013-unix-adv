@@ -13,7 +13,7 @@ echo $1
 
 # 3. Write a loop to print the names of all the files in the 20181013-unix-adv directory
 
-for file in ~/20181013-unix-adv/
+for file in ~/20181013-unix-adv/*
 do
 	echo $file
 done;
