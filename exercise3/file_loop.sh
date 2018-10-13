@@ -1,5 +1,5 @@
 #! /bin/bash
-# This script loops through all the fastq files in the directory it is passed
+# This script loops through all the files in the directory it is passed
 
 for file in $1
 do
